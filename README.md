@@ -1,7 +1,7 @@
-# argocd
+# ArgoCD
 ABC of ArgoCD | ArgoCD 101
 
-## Complete ArgoCD Guide
+# Complete ArgoCD Guide
 
 ## Table of Contents
 - [What is ArgoCD?](#what-is-argocd)
